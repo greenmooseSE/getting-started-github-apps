@@ -3,7 +3,8 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-  We would appreciate it if you could provide us with more info about this issue/pr!
+  - Come'on, no empty issues please!
+  - Empty issue? That's a no-no.
 
 # Or an array:
 # requestInfoReplyComment:
